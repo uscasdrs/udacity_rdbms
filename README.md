@@ -20,10 +20,15 @@ of how the functions in tournament.py can be used. The following shows how the c
 be used. '$ ' is the shell prompt and '=> ' is the psql prompt.
 
 $ psql
+
 => \i tournament.sql
+
 [...]
+
 => \q
+
 $
+
 
 
 $ python tournament_test.sql
